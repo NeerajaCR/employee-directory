@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "designation": "Frontend Developer",
+    "department": "Engineering",
+    "email": "rahul@example.com",
+    "phone": "+91 1234567890",
+    "address": "Kakkanad, Kochi, Kerala",
+    "joining_date": "2022-06-15",
+    "profile_image": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vishnu",
+    "designation": "UI/UX Designer",
+    "department": "Design",
+    "email": "vishnu@example.com",
+    "phone": "+91 1234567891",
+    "address": "Calicut, Kerala",
+    "joining_date": "2021-11-20",
+    "profile_image": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Penuvel",
+    "designation": "Backend Developer",
+    "department": "Engineering",
+    "email": "penuvel@example.com",
+    "phone": "+91 1234567892",
+    "address": "Trivandrum, Kerala",
+    "joining_date": "2023-01-10",
+    "profile_image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Prathya",
+    "designation": "QA Engineer",
+    "department": "Testing",
+    "email": "prathya@example.com",
+    "phone": "+91 1234567893",
+    "address": "Thrissur, Kerala",
+    "joining_date": "2020-08-05",
+    "profile_image": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Arun",
+    "designation": "Project Manager",
+    "department": "Management",
+    "email": "arun@example.com",
+    "phone": "+91 1234567894",
+    "address": "Kannur, Kerala",
+    "joining_date": "2026-03-18",
+    "profile_image": "https://randomuser.me/api/portraits/men/5.jpg"
+  }
+]
