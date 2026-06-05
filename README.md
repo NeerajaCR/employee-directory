@@ -1,3 +1,5 @@
+Updated code is in "develop" branch
+
 # Employee Directory Application
 
 A mobile application built with "React Native" and "Expo SDK 56" to search, filter, and view employee details in an organization. 
